@@ -1,8 +1,8 @@
-## 🎯 Conclusion
+🎯 Conclusion
 
 This project demonstrates the application of Machine Learning regression techniques to predict food delivery times using real-world factors such as delivery distance, traffic conditions, weather, time of day, and courier experience.
 
-### 🚀 Key Highlights
+ 🚀 Key Highlights
 
 - **Linear Regression:** Established a baseline model for predicting food delivery duration.
 - **Ridge Regression:** Applied L2 regularization to reduce overfitting and improve model generalization.
