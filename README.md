@@ -10,7 +10,7 @@ This project demonstrates the application of Machine Learning regression techniq
 - **Polynomial Regression:** Captured nonlinear relationships between input features and delivery times.
 - **Model Evaluation:** Assessed predictive performance using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.
 
-### 💡 Key Learnings
+###  Key Learnings
 
 Through this project, I gained hands-on experience in data preprocessing, feature analysis, regression modeling, regularization, and model evaluation. I also explored how different regression algorithms perform on a practical prediction problem.
 
